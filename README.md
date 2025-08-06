@@ -1,4 +1,4 @@
-# File Processing Platform
+# API EditaFlex
 
 ## 📋 Sobre o Projeto
 
