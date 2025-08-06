@@ -1,0 +1,8 @@
+# Sample Binary File for Testing
+# This is a placeholder file for demonstration purposes
+# In a real implementation, this would be a binary file
+# Replace with your actual sample binary files
+
+# Sample binary content (hex representation)
+# 00 01 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F
+# FF FF FF FF 00 00 00 00 AA BB CC DD EE FF 00 11

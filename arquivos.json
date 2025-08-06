@@ -1,0 +1,40 @@
+{
+  "sample_files": {
+    "GENERIC_BRAND_A": [
+      {
+        "modelo": "Sample Model A1 v1.0.1",
+        "nomearquivo": "sample_file_a1.BIN",
+        "advanced_features": false
+      },
+      {
+        "modelo": "Sample Model A2 v1.0.2",
+        "nomearquivo": "sample_file_a2.BIN",
+        "advanced_features": false
+      }
+    ],
+    "GENERIC_BRAND_B": [
+      {
+        "modelo": "Sample Model B1 v2.1.0",
+        "nomearquivo": "sample_file_b1.BIN",
+        "advanced_features": true
+      },
+      {
+        "modelo": "Sample Model B2 v2.1.1",
+        "nomearquivo": "sample_file_b2.BIN",
+        "advanced_features": true
+      }
+    ],
+    "GENERIC_BRAND_C": [
+      {
+        "modelo": "Sample Model C1 Standard",
+        "nomearquivo": "sample_file_c1.BIN",
+        "advanced_features": false
+      },
+      {
+        "modelo": "Sample Model C2 Premium",
+        "nomearquivo": "sample_file_c2.BIN",
+        "advanced_features": true
+      }
+    ]
+  }
+}

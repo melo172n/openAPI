@@ -1,0 +1,8 @@
+# Sample Binary File A1 - v1.0.1
+# This is a sample binary file for testing the file processing functionality
+# Replace with actual binary content for your specific use case
+
+# Sample hex data for demonstration
+# Header: 41 42 43 44 (ABCD)
+# Version: 01 00 01 
+# Data: FF FF FF FF 00 00 00 00 AA BB CC DD

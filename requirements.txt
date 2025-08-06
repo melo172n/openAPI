@@ -1,0 +1,9 @@
+Flask
+Flask-JWT-Extended
+Flask-Mail
+Flask-SQLAlchemy
+Flask-cors
+email-validator
+stripe
+Werkzeug
+psycopg2-binary

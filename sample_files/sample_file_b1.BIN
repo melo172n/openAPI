@@ -1,0 +1,8 @@
+# Sample Binary File B1 - v2.1.0 (Advanced Features)
+# This sample file demonstrates advanced processing capabilities
+# Contains example patterns and data structures
+
+# Sample hex data:
+# Header: 42 31 20 20 (B1  )
+# Version: 02 01 00
+# Advanced pattern: 12 34 56 78 9A BC DE F0
