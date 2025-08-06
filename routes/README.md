@@ -7,7 +7,7 @@ Este é um sistema web desenvolvido em Flask para processamento de arquivos bin�
 ## 🚀 Tecnologias Utilizadas
 
 ### Backend
-- **Python 3.x**
+- **Python 3.13**
 - **Flask** - Framework web principal
 - **SQLAlchemy** - ORM para banco de dados
 - **Flask-JWT-Extended** - Autenticação e autorização JWT
@@ -80,7 +80,7 @@ routes/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/file-processing-platform.git
+git clone https://github.com/melo172n/openAPI.git
 cd file-processing-platform
 ```
 
@@ -217,6 +217,6 @@ Esta é uma versão pública do projeto. Os dados específicos, arquivos binári
 
 ---
 
-**Desenvolvido por:** [Seu Nome]  
+**Desenvolvido por:** João Vitor de Oliveira Melo
 **Tecnologia:** Python, Flask, SQLAlchemy, PostgreSQL, Stripe  
 **Tipo:** Sistema Web para Processamento de Arquivos
